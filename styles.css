@@ -1,0 +1,32 @@
+body {
+    margin: 20px;
+    font-family: 'Borel', cursive;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ebdac1;
+    color: #A47E4B;
+    text-shadow: 0 0 5px #ffffff;
+    border-bottom: 8px solid #dd738a;
+    border-right: 8px solid #dd738a;
+    border-radius: 10px;
+}
+
+h3 {
+    color: #FFFFFF;
+    text-shadow: 0 0 4px #dd738a;
+    font-size: 24px;
+}
+
+.avatar {
+    width: 150px;
+    border: 4px solid #dd738a;
+    border-radius: 50%;
+    box-shadow: 0 0 10px #FFFFFF;
+}
