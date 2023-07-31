@@ -1,6 +1,7 @@
 body {
     margin: 20px;
     font-family: 'Borel', cursive;
+    line-height: 0.8;
 }
 
 .card {
@@ -10,7 +11,7 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ebdac1;
+    background: no-repeat right/cover url("images/background.png");
     color: #A47E4B;
     text-shadow: 0 0 5px #ffffff;
     border-bottom: 8px solid #dd738a;
